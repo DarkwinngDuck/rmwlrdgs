@@ -1,0 +1,2 @@
+ docker build -t rimworld .
+ docker run -v .:/App -itd rimworld
